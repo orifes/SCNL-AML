@@ -1,0 +1,3 @@
+[submodule "models/rtransformer"]
+	path = models/rtransformer
+	url = https://github.com/DSE-MSU/R-transformer.git
